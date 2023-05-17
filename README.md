@@ -51,5 +51,6 @@ We provide a [demo](https://clarify-delphi.apps.allenai.org/) of our clarificati
 If you use the data, please also be sure to cite all of the original datasets on which we built our dataset.
 
 Forbes et al., 2020. [Social Chemistry 101: Learning to Reason about Social and Moral Norms](https://aclanthology.org/2020.emnlp-main.48/)
+
 Rudinger et al., 2020. [Thinking Like a Skeptic: Defeasible Inference in Natural Language](https://aclanthology.org/2020.findings-emnlp.418/)
 
