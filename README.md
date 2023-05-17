@@ -2,7 +2,9 @@
 This repository is for data and code accompanying the paper:
 
 ClarifyDelphi: Reinforced Clarification Questions with Defeasibility Rewards for Social and Moral Situations
+
 Valentina Pyatkin, Jena D. Hwang, Vivek Srikumar, Ximing Lu, Liwei Jiang, Yejin Choi, Chandra Bhagavatula
+
 ACL 2023
 
 # Data Format
