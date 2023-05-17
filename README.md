@@ -7,12 +7,14 @@ ACL 2023
 
 # Data Format
 In delta-Clarify we provide the crowdsourced clarification questions.
+
     0. **id** Enumeration of the instances.
     1. **source** Whether the questions have been crowdsourced or come from a LLM.
     2. **situation** The social or moral situation.
     3. **question** The clarification question.
 
 In delta-Clarify-silver we provide the davinci-002 generated questions, given the defeasible SocialChemistry data.
+
     0. **DataSource** Source of the data.
     1. **Hypothesis** The social or moral situation together with a judgment.
     2. **Update** A weakening or strengthening update.
