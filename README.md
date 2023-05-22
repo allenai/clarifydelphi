@@ -28,7 +28,7 @@ In delta-Clarify-silver we provide the davinci-002 generated questions, given th
 We provide a [demo](https://clarify-delphi.apps.allenai.org/) of our clarification question generation system.
 
 # Citing the Data and/or Code
-- Resources on this page are licensed CC-BY 4.0, a Creative Commons license requiring Attribution (https://creativecommons.org/licenses/by/4.0/).
+- Resources on this page are licensed through Apache 2.0.
 - Please cite the following paper if you use the data: 
 ```
 @inproceedings{pyatkin2023clarifydelphi,
